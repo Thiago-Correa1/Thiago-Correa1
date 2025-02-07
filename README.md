@@ -4,13 +4,13 @@
 <div align="center">
   <a href="https://github.com/Thiago-Correa1">
   <div>
-<!--     <a href="https://youtube.com/@elnatan_nt?si=o7rgvCetI_Jl_NxX" target="_blank">
+<!--     <a href="" target="_blank">
    <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a> -->
    <a href="https://github.com/Thiago-Correa1" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 50px;" />
   </a>
-    <a href="http://linkedin.com/in/elnatan1nt" target="_blank">
+    <a href="http://linkedin.com/in/thiago-dos-santos-corrêa" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 0px;" />
   </a>
 </div>
